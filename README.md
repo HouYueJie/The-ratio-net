@@ -12,12 +12,12 @@
   Linux环境
 
 # 环境配置要求
-  tensorflow-gpu==2.4.0
-  Keras==2.4.3
-  tqdm==4.54.0
-  scipy==1.4.1
-  scikit-learn==0.23.2
-  Pillow==7.1.2
-  numpy==1.19.4
-  opencv-python==4.4.0.46
-  matplotlib==3.2.1
+  tensorflow-gpu==2.4.0  
+  Keras==2.4.3  
+  tqdm==4.54.0  
+  scipy==1.4.1  
+  scikit-learn==0.23.2  
+  Pillow==7.1.2  
+  numpy==1.19.4  
+  opencv-python==4.4.0.46  
+  matplotlib==3.2.1  
